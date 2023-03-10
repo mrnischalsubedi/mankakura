@@ -6,7 +6,7 @@ const container = document.getElementById("container")
 authenticate()
 
 
-
+// authenticate admin
 function authenticate() {
     container.style.display = "none"
     let userPass;
